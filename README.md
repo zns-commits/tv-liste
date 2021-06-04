@@ -1,0 +1,2 @@
+# tv-liste
+Une chaîne de télévision, ou chaine de télévision, est un organisme (public ou privé) qui diffuse des programmes télévisés.  À l'origine, l'expression « chaîne » fait référence à l'ensemble des émetteurs qui permettaient de transmettre simultanément le même programme. Aujourd'hui, une chaîne de télévision a pour activité essentielle la production et la diffusion de programmes télévisés.
